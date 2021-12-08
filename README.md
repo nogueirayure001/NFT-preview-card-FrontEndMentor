@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/nogyuuu/NFT-preview-card-FrontEndMentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/nogyuuu/NFT-preview-card-FrontEndMentor)
+- Live Site URL: [live site](https://your-live-site-url.com)
 
 ## My process
 
